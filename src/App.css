@@ -14,3 +14,9 @@
 body{
     font-family: 'iCielMedium', sans-serif;
 }
+
+.app_itemsContainer{
+    scroll-snap-type: y mandatory;
+    overflow: auto;
+    height: 100vh;
+}
