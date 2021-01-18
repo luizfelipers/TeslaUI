@@ -1,5 +1,16 @@
+@font-face{
+    font-family: 'iCielMedium';
+    src: local('iCielMedium'), url('./assets/fonts/iCiel-Medium.ttf') format('truetype');
+   
+  
+}
+
 *{
     margin:0px;
     padding:0px;
 
+}
+
+body{
+    font-family: 'iCielMedium', sans-serif;
 }
