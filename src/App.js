@@ -18,7 +18,7 @@ function App() {
       <div className=' app_itemsContainer'>
 
       <Item
-      title='Preço mais baixo do mundo'
+      title='Painéis'
       desc='Dinheiro economizado'
       descLink=''
       backgroundImg={SolarPanels}
