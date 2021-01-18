@@ -26,6 +26,11 @@
     text-transform: uppercase;
     cursor: pointer;
 }
+.header_center p:hover{
+    transform: scale(1.05);
+    text-shadow: 1px 2px 10px rgba(0, 0, 0, 0.5);
+    transition: 0.2s all ease;
+}
 
 .header_right{
     display: flex;
