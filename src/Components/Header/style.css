@@ -1,6 +1,6 @@
 .header{
     display: flex;
-    background-color: aqua;
+    background-color: transparent;
     position: fixed;
     width: 100vw;
     top:0;
